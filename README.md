@@ -1,0 +1,2 @@
+# Kumy
+maven repo
